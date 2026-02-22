@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A collection of resources for the Create: Geyser extension.",
+        "name": "Create: Geyser Resource Pack",
+        "uuid": "2032b4c4-f4d4-4645-b19c-005ec6474477",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 26, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Asset Module",
+            "type": "resources",
+            "uuid": "81ed4d1a-150d-4a34-8d6b-03b7bf99a146",
+            "version": [0, 0, 1]
+        }
+    ]
+}

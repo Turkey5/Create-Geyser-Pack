@@ -1,0 +1,13 @@
+{
+    "create:acacia_window": {
+    "textures": {
+        "down": "acacia_planks",
+        "east": "acacia_window",
+        "north": "acacia_window",
+        "south": "acacia_window",
+        "up": "acacia_planks",
+        "west": "acacia_window"
+    },
+    "sound": "glass"
+    }
+}
